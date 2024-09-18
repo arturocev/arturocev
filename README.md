@@ -8,8 +8,7 @@ Otro grado superior que he estudiado fue Administración de Sistemas Informátic
 - Java
 - XML
 - HTML
-- CSS
+- CSS                                      <img class="media_gif__MBeQG" style="aspect-ratio:480/480" src="https://i.giphy.com/fxI9bA67DZwp3Un78g.webp" alt="" width="300">
 - BASH
 - MS2OS
 - C#
-<img class="media_gif__MBeQG" style="aspect-ratio:480/480" src="https://i.giphy.com/fxI9bA67DZwp3Un78g.webp" alt="" width="300">
