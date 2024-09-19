@@ -11,4 +11,4 @@ Otro grado superior que he estudiado fue Administración de Sistemas Informátic
 - CSS
 - Python
 <div align="center">
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhoamxvY2o5NmZ5dmF4NTJrZnJ2d28zbnllN3ptOTZubXpqdWFmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/P6w6nnkUxzQuQ1qyQM/giphy.webp" width="945" height="945">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhoamxvY2o5NmZ5dmF4NTJrZnJ2d28zbnllN3ptOTZubXpqdWFmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/P6w6nnkUxzQuQ1qyQM/giphy.webp" width="100" height="200">
