@@ -2,7 +2,7 @@
 
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://github.com/images/mona-whisper.gif"> Soy un estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) y estoy cursando el segundo año
 
-## Otros estudios
+## ✏️ Otros estudios
 
 Otro grado superior que he estudiado fue Administración de Sistemas Informáticos en Red y lenguajes de programación que conozco son:
 - Java
